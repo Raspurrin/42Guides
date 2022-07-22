@@ -4,7 +4,6 @@ Here you can find guides for the projects or libraries of the 42 network. Feel f
 What I will personally add in the future: 
  
 + So_long 
-+ MLX42
 
 No intention of adding myself: 
 + Born2beroot
