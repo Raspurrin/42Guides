@@ -19,3 +19,19 @@ contributed to an open source project!
 
 **No intention of adding myself:** 
 + Born2beroot
+
+## How to go about writing your own guide: 
+
+Follow the same formatting I use or make a case to me why it should be different while submitting your pull request. 
+Here is what the structure of my formatting looks like: 
+```
+# Project name
+
+### Index:
++ [Chapter name](#chapter-name)
+
+## Chapter name
+```
+If you aren't sure how to write it and don't think you can do so perfectly, that is alright! 
+You could just let me know in the comments of your pull request if you specifically want my input on something. 
+Or if it is a half finished guide, that is also acceptable. Just add this to your project name: `🔨 Under construction`
