@@ -8,7 +8,6 @@ contributed to an open source project!
 
 + Libft 
 + Compiling on different systems
------------------------------------
 + How to cheat norm
 + Clean code
 + Dynamic functions
