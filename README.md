@@ -13,8 +13,6 @@ contributed to an open source project!
 + Dynamic functions
 + Efficient code
 + Effective organistation
-
-**Undecided:**
 + So_long (For both MLX42 and Minilibx, my own implementation and standard) 
 
 **No intention of adding myself:** 
