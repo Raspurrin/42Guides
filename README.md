@@ -20,6 +20,8 @@ contributed to an open source project!
 **No intention of adding myself:** 
 + Born2beroot
 
+------------
+
 ## How to go about writing your own guide: 
 
 Follow the same formatting I use or make a case to me why it should be different while submitting your pull request. 
