@@ -19,6 +19,8 @@ contributed to an open source project!
 
 **No intention of adding myself:** 
 + Born2beroot
++ Minilibx
++ MLX42
 
 ------------
 
