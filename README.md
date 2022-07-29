@@ -18,6 +18,9 @@ contributed to an open source project!
 **No intention of adding myself:** 
 + Born2beroot
 + Push_swap
++ FDF
++ Fractol
++ Minitalk
 + Minilibx
 + MLX42
 
