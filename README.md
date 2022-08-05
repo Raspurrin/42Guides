@@ -7,6 +7,8 @@ contributed to an open source project!
 **Will add in the future:** (Anyone else is also welcome to write these)
 
 + Libft 
++ Philosophers
++ Minishell
 + Compiling on different systems
 + How to cheat norm
 + Clean code
